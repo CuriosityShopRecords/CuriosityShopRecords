@@ -1,0 +1,17 @@
+name: Z64 - YouTube upload
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: CristobalPenaloza/z64packer-yt-upload@v1
+        with:
+          yt_client_secrets: ${{ secrets.YOUTUBE_CLIENT_SECRETS }}
+          yt_request_token: ${{ secrets.YOUTUBE_REQUEST_TOKEN }}
+          background_image: "https://www.zeldadungeon.net/wiki/images/8/82/Curiosity_Shop_int_-_MM64.png"
+          
