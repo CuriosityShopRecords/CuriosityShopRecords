@@ -1,0 +1,21 @@
+name: Z64 - Create assets
+
+on:
+  workflow_dispatch:
+  pull_request_target:
+    types:
+      - closed
+
+jobs:
+  build:
+    permissions: write-all
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: CristobalPenaloza/z64packer-create-assets@v1
+        with:
+          name: "Curiosity Shop Records"
+          description: "Look, I know nothing. If it comes to me, I buy it!"
+          binaries-path: 'Music/'
+          previews-path: 'previews/'
+          avatar-url: 'https://avatars.githubusercontent.com/u/269362430?v=4&s=96'
