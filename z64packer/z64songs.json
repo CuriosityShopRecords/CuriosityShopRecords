@@ -1,3 +1,25 @@
 [
+  {
+    "uuid": "bd3fd5c6-7fee-4b3a-83c4-7cbf9081b3c3",
+    "creationDate": "2026-03-19T19:27:16.719Z",
+    "game": "Inti Illimani",
+    "song": "San Juanito",
+    "composers": [
+      "Benjamín Aguilera"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "0"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": true,
+    "usesFormmask": false,
+    "file": "Inti Illimani/San Juanito.mmrs",
+    "preview": "Inti Illimani/San Juanito.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
