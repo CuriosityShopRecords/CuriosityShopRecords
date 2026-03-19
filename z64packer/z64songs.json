@@ -21,5 +21,30 @@
     "file": "Inti Illimani/San Juanito.mmrs",
     "preview": "Inti Illimani/San Juanito.ogg"
   },
+  {
+    "uuid": "5f144be0-fa67-479a-9686-56e84f5cd03f",
+    "creationDate": "2026-03-19T19:30:37.235Z",
+    "game": "Boris Mokrousov",
+    "song": "Sormovskaya liricheskaya",
+    "composers": [
+      "Boris Mokrousov"
+    ],
+    "converters": [
+      "Fish"
+    ],
+    "isDMCACritical": false,
+    "type": "bgm",
+    "categories": [
+      "1",
+      "3",
+      "6",
+      "16"
+    ],
+    "usesCustomBank": true,
+    "usesCustomSamples": false,
+    "usesFormmask": false,
+    "file": "Boris Mokrousov/Sormovskaya liricheskaya.mmrs",
+    "preview": "Boris Mokrousov/Sormovskaya liricheskaya.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
