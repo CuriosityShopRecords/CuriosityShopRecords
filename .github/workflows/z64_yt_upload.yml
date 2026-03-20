@@ -13,5 +13,5 @@ jobs:
         with:
           yt_client_secrets: ${{ secrets.YOUTUBE_CLIENT_SECRETS }}
           yt_request_token: ${{ secrets.YOUTUBE_REQUEST_TOKEN }}
-          background_image: "https://www.zeldadungeon.net/wiki/images/8/82/Curiosity_Shop_int_-_MM64.png"
+          background_image: "https://i.imgur.com/gIVLvmj.png"
           
