@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "game": "Boris Mokrousov",
     "series": "Songs",
@@ -18,6 +18,12 @@
     "game": "Matvey Blanter",
     "series": "Songs",
     "logo": "https://images.genius.com/e847d292cffe620c10da319b81d12052.981x981x1.jpg"
+  },
+  {
+    "game": "D.N.Angel"
+  },
+  {
+    "game": "Digimon Tamers"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]

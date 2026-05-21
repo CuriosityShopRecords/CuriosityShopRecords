@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "uuid": "bd3fd5c6-7fee-4b3a-83c4-7cbf9081b3c3",
     "creationDate": "2026-03-19T19:27:16.719Z",
@@ -115,7 +115,10 @@
       "1"
     ],
     "file": "Digimon Tamers/The Biggest Dreamer.mmrs",
-    "preview": "Digimon Tamers/The Biggest Dreamer.ogg"
+    "preview": "Digimon Tamers/The Biggest Dreamer.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   {
     "uuid": "b14c9bb3-c770-4f9d-8d46-20c2b2157926",
@@ -134,7 +137,10 @@
       "16"
     ],
     "file": "D.N.Angel/Frozen Flower.mmrs",
-    "preview": "D.N.Angel/Frozen Flower.ogg"
+    "preview": "D.N.Angel/Frozen Flower.ogg",
+    "usesCustomBank": false,
+    "usesCustomSamples": false,
+    "usesFormmask": false
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
