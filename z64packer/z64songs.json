@@ -98,5 +98,43 @@
     "usesCustomSamples": false,
     "usesFormmask": false
   },
+  {
+    "uuid": "38522570-586f-4e7f-8d88-729c40711d43",
+    "creationDate": "2026-05-20T19:50:32.557Z",
+    "game": "Digimon Tamers",
+    "song": "The Biggest Dreamer",
+    "composers": [
+      "Michihiko Ohta"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "0",
+      "1"
+    ],
+    "file": "Digimon Tamers/The Biggest Dreamer.mmrs",
+    "preview": "Digimon Tamers/The Biggest Dreamer.ogg"
+  },
+  {
+    "uuid": "b14c9bb3-c770-4f9d-8d46-20c2b2157926",
+    "creationDate": "2026-05-20T20:29:26.035Z",
+    "game": "D.N.Angel",
+    "song": "Frozen Flower",
+    "composers": [
+      "Osamu Marumoto"
+    ],
+    "converters": [
+      "Asra"
+    ],
+    "type": "bgm",
+    "categories": [
+      "6",
+      "16"
+    ],
+    "file": "D.N.Angel/Frozen Flower.mmrs",
+    "preview": "D.N.Angel/Frozen Flower.ogg"
+  },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
