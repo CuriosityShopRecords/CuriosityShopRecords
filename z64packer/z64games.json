@@ -20,10 +20,14 @@
     "logo": "https://images.genius.com/e847d292cffe620c10da319b81d12052.981x981x1.jpg"
   },
   {
-    "game": "D.N.Angel"
+    "game": "D.N.Angel",
+    "series": "Anime",
+    "logo": "https://www.cdjapan.co.jp/anime/essentials/dnangel/img/title.gif"
   },
   {
-    "game": "Digimon Tamers"
+    "game": "Digimon Tamers",
+    "series": "Anime",
+    "logo": "https://static.wikia.nocookie.net/digimon/images/a/a4/Digimontamers_logo.png/revision/latest?cb=20200411201832&path-prefix=es"
   },
   "__SENTINEL__: ONLY ADD ENTRIES ABOVE THIS LINE TO PREVENT MERGE CONFLICTS. Oh also, don't delete it please thank you <3"
 ]
